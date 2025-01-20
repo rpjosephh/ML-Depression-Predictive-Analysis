@@ -1,2 +1,2 @@
 # Depression Predictive Analysis
-![depression](depression.png)
+![depression](depress.png)
