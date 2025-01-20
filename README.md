@@ -1,2 +1,2 @@
-# Coffee Sales Analysis
-![coffeesales](coffeesales.png)
+# Depression Predictive Analysis
+![depression](depression.png)
